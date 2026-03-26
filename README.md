@@ -467,4 +467,3 @@ In MediaWiki and its hundreds of extensions, message documentation is a strictly
 
 [npm]: https://img.shields.io/npm/v/@wikimedia/jquery.i18n.svg
 [npm-url]: https://npmjs.com/package/@wikimedia/jquery.i18n
-i have done the contribution
