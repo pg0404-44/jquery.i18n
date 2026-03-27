@@ -100,7 +100,7 @@
 		 * @param {string} locale
 		 * @param {Object} messages
 		 */
-	      set: function ( locale, messages ) {
+	 set: function ( locale, messages ) {
 	var clonedMessages = $.extend( true, {}, messages );
 
 	if ( !this.messages[ locale ] ) {
